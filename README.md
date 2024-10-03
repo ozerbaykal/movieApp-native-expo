@@ -10,23 +10,23 @@ movieApp is a user-friendly mobile application that allows you to explore popula
 
 ## Video gif
 
-![](../assets/images/movie.gif)
+![](./assets/images/movie.gif)
 
 ## Home Screen
 
-![](../assets/images/homeScreen.png)
+![](./assets/images/homeScreen.png)
 
 ## Movie Screen
 
-![](../assets/images/movieList.png)
+![](./assets/images/movieList.png)
 
 ## Search Screen
 
-![](../assets/images/results.png)
+![](./assets/images/results.png)
 
 ## Person Screen
 
-![](../assets/images/personDetail.png)
+![](./assets/images/personDetail.png)
 
 ## Features
 
